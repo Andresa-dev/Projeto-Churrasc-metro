@@ -1,0 +1,17 @@
+.container{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    max-width: 300px;
+    margin: auto;
+    background-color: cadetblue;
+    padding: 20px;
+    border-radius: 10px;
+}
+
+input{
+    width: 100%;
+    display: block;
+    padding: 5px;
+    box-sizing: border-box;
+    margin-bottom: 10px;
+
+}
